@@ -1,1 +1,5 @@
 /blob
+target/
+*.classpath
+*.project
+*.settings
